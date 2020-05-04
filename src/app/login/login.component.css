@@ -1,0 +1,25 @@
+.main-div mat-card{
+    padding: 0px;
+    background-color: #F5F5F9  ;
+    color:#4E5067;
+    bottom: 110px; 
+}
+.toolbar-class{
+    background-color: #B8C3E6 ;
+    color: #4E5067;
+}
+.button-class{
+    background-color: #62DBB1  ;
+    color: #4E5067;
+}
+.label-class{
+    color: #4E5067;
+}
+.login-form {
+    padding: 20px;
+}
+.img {
+    width: 100px;
+    height: 100px;
+    background: url('src/images/fondo.png');
+}
